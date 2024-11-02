@@ -1,5 +1,5 @@
-import Bannar from "../Bannar";
-import Books from "../Books";
+import Bannar from "./Bannar";
+import Books from "./Books";
 
 const Home = () => {
   return (

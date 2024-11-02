@@ -6,7 +6,7 @@ import Root from "./Components/Root";
 import ErrorPage from "./ErrorPage";
 import Home from "./Home";
 import DashBoard from "./DashBoard";
-import BookDetails from "../BookDetails";
+import BookDetails from "./BookDetails";
 
 const router = createBrowserRouter([
   {

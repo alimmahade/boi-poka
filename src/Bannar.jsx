@@ -1,4 +1,4 @@
-import bookPic from "./public/books.jpg";
+import bookPic from "/books.jpg";
 const Bannar = () => {
   return (
     <div className="hero bg-base-200 min-h-screen">
